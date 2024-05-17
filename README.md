@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+### NAME:G.ROHIT
+### REGISTER NUMBER:2122222240083
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -33,9 +35,14 @@ while True:
 
 ```
 ## OUPUT:
+### CLIENT:
 
-![Screenshot 2024-04-12 090852](https://github.com/ANU23000217/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/139117108/4528f111-e794-4ad8-8064-4ad24fa62185)
+<img width="700" alt="image" src="https://github.com/rohitgunasekaran/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/119404546/4d1d0b3c-f257-4c6a-b1c4-079eb0c6ba08">
 
-## RESULT
+### SERVER:
+
+<img width="700" alt="image" src="https://github.com/rohitgunasekaran/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/119404546/66df9fca-f2e6-47f2-8387-f49da73cebce">
+
+## RESULT:
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
 was successfully created and executed.
